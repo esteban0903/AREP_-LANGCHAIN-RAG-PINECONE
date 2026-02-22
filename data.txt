@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation (RAG) is an AI architecture that combines retrieval and generation.
+
+The retrieval component searches a vector database for relevant document chunks.
+
+The generation component uses a large language model to produce a final answer based on the retrieved context.
+
+Pinecone is a vector database used to store embeddings.
+
+Embeddings transform text into numerical vectors that capture semantic meaning.
